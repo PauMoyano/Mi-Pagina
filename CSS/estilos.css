@@ -1,0 +1,71 @@
+.iconoNav{
+    width: 50px;
+}
+.imgprofile {
+    position: absolute;
+    top: 10px;
+    left: 20vw;
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    border: 10px solid #6b0000;
+}
+.bordera, .borderab{
+    font-weight: 700;
+    border-top: 1px solid  #6b0000;
+    padding-top: 15px;
+}
+.marginimg {
+    padding-top: 280px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.fondotitle{
+    background-color: #6b0000;
+}
+.zoomwhastapp{
+    width: 30%;
+}
+.textcolor {
+    color:#6b0000!important;
+}
+.bordertop {
+    border-top: 2px solid  #6b0000;
+}
+.iconoRef{
+    width: 15%;
+}
+.iconoRef.css{
+    width: 22%;
+}
+/*Medias*/
+@media (min-width: 768px){
+    .d-md-block {
+        display: block!important;
+    }
+    .d-md-none {
+        display: none!important;
+    }
+    .imgprofile {
+        position: absolute;
+        top: 10px;
+        left: 3vw;
+        width: 250px;
+        height: 250px;
+        border-radius: 200px;
+        border: 10px solid #6b0000;
+    }
+    .zoomwhastapp{
+        width: 30%;
+    }
+    .subCard{
+        margin-left: 12% !important;
+        margin-bottom: 15% !important;
+    }
+    .iconoRef1{
+        width: 10%;
+    }
+
+}
