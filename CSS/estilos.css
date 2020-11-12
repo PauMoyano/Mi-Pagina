@@ -4,7 +4,7 @@
 .imgprofile {
     position: absolute;
     top: 10px;
-    left: 20vw;
+    left: 14%;
     width: 250px;
     height: 250px;
     border-radius: 200px;
@@ -40,6 +40,12 @@ p {
 .iconoRef.css{
     width: 22%;
 }
+.iconoRef1{
+    width: 8%;
+}
+.textoMail{
+    font-size: 0.8rem;
+}
 /*Medias*/
 @media (min-width: 768px){
     .d-md-block {
@@ -56,9 +62,6 @@ p {
         height: 250px;
         border-radius: 200px;
         border: 10px solid #6b0000;
-    }
-    .zoomwhastapp{
-        width: 30%;
     }
     .subCard{
         margin-left: 12% !important;
