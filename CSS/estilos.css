@@ -2,21 +2,15 @@
     width: 50px;
 }
 .imgprofile {
-    position: absolute;
-    top: 10px;
-    left: 14%;
-    width: 250px;
-    height: 250px;
-    border-radius: 200px;
+    width: 80%;
+    height: auto;
+    border-radius: 50%;
     border: 10px solid #6b0000;
 }
 .bordera, .borderab{
     font-weight: 700;
     border-top: 1px solid  #6b0000;
     padding-top: 15px;
-}
-.marginimg {
-    padding-top: 280px;
 }
 p {
     margin-top: 0;
@@ -55,12 +49,9 @@ p {
         display: none!important;
     }
     .imgprofile {
-        position: absolute;
-        top: 10px;
-        left: 3vw;
-        width: 250px;
-        height: 250px;
-        border-radius: 200px;
+        width: 80%;
+        height: auto;
+        border-radius: 50%;
         border: 10px solid #6b0000;
     }
     .subCard{
